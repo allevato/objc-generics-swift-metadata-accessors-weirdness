@@ -1,0 +1,7 @@
+module ObjcGenerics {
+  header "GenericList.h"
+}
+
+module NotGeneric {
+  header "NonGenericList.h"
+}
